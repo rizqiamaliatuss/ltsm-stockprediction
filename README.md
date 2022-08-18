@@ -1,2 +1,1 @@
-# Project-TSLA
-# ltsm-stockprediction-bbri
+# ltsm-stockprediction
